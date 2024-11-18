@@ -1,0 +1,7 @@
+C:\Users\LOQ\source\repos\floyd\floyd\bin\Debug\floyd.exe.config
+C:\Users\LOQ\source\repos\floyd\floyd\bin\Debug\floyd.exe
+C:\Users\LOQ\source\repos\floyd\floyd\bin\Debug\floyd.pdb
+C:\Users\LOQ\source\repos\floyd\floyd\obj\Debug\floyd.csproj.AssemblyReference.cache
+C:\Users\LOQ\source\repos\floyd\floyd\obj\Debug\floyd.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\source\repos\floyd\floyd\obj\Debug\floyd.exe
+C:\Users\LOQ\source\repos\floyd\floyd\obj\Debug\floyd.pdb
