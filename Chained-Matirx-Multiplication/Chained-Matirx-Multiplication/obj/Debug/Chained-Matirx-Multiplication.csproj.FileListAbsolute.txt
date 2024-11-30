@@ -1,0 +1,7 @@
+E:\c#\Chained-Matirx-Multiplication\Chained-Matirx-Multiplication\bin\Debug\Chained-Matirx-Multiplication.exe.config
+E:\c#\Chained-Matirx-Multiplication\Chained-Matirx-Multiplication\bin\Debug\Chained-Matirx-Multiplication.exe
+E:\c#\Chained-Matirx-Multiplication\Chained-Matirx-Multiplication\bin\Debug\Chained-Matirx-Multiplication.pdb
+E:\c#\Chained-Matirx-Multiplication\Chained-Matirx-Multiplication\obj\Debug\Chained-Matirx-Multiplication.csproj.AssemblyReference.cache
+E:\c#\Chained-Matirx-Multiplication\Chained-Matirx-Multiplication\obj\Debug\Chained-Matirx-Multiplication.csproj.CoreCompileInputs.cache
+E:\c#\Chained-Matirx-Multiplication\Chained-Matirx-Multiplication\obj\Debug\Chained-Matirx-Multiplication.exe
+E:\c#\Chained-Matirx-Multiplication\Chained-Matirx-Multiplication\obj\Debug\Chained-Matirx-Multiplication.pdb
